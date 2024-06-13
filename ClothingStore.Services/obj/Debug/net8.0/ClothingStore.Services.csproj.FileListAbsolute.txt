@@ -1,0 +1,17 @@
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\bin\Debug\net8.0\ClothingStore.Services.deps.json
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\bin\Debug\net8.0\ClothingStore.Services.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\bin\Debug\net8.0\ClothingStore.Services.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\bin\Debug\net8.0\ClothingStore.DataAccess.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\bin\Debug\net8.0\ClothingStore.Models.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\bin\Debug\net8.0\ClothingStore.Models.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\bin\Debug\net8.0\ClothingStore.DataAccess.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\obj\Debug\net8.0\ClothingStore.Services.csproj.AssemblyReference.cache
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\obj\Debug\net8.0\ClothingStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\obj\Debug\net8.0\ClothingStore.Services.AssemblyInfoInputs.cache
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\obj\Debug\net8.0\ClothingStore.Services.AssemblyInfo.cs
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\obj\Debug\net8.0\ClothingStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\obj\Debug\net8.0\ClothingStore.Services.csproj.CopyComplete
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\obj\Debug\net8.0\ClothingStore.Services.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\obj\Debug\net8.0\refint\ClothingStore.Services.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\obj\Debug\net8.0\ClothingStore.Services.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Services\obj\Debug\net8.0\ref\ClothingStore.Services.dll

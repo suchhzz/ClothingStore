@@ -1,0 +1,17 @@
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\bin\Debug\net8.0\ClothingStore.Repository.deps.json
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\bin\Debug\net8.0\ClothingStore.Repository.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\bin\Debug\net8.0\ClothingStore.Repository.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\bin\Debug\net8.0\ClothingStore.DataAccess.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\bin\Debug\net8.0\ClothingStore.Models.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\bin\Debug\net8.0\ClothingStore.DataAccess.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\bin\Debug\net8.0\ClothingStore.Models.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ClothingStore.Repository.csproj.AssemblyReference.cache
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ClothingStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ClothingStore.Repository.AssemblyInfoInputs.cache
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ClothingStore.Repository.AssemblyInfo.cs
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ClothingStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ClothingStore.Repository.csproj.CopyComplete
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ClothingStore.Repository.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\refint\ClothingStore.Repository.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ClothingStore.Repository.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ref\ClothingStore.Repository.dll

@@ -1,0 +1,15 @@
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\bin\Debug\net8.0\ClothingStore.Models.deps.json
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\bin\Debug\net8.0\ClothingStore.Models.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\bin\Debug\net8.0\ClothingStore.Models.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\bin\Debug\net8.0\ClothingStore.DataAccess.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\bin\Debug\net8.0\ClothingStore.DataAccess.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ClothingStore.Models.csproj.AssemblyReference.cache
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ClothingStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ClothingStore.Models.AssemblyInfoInputs.cache
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ClothingStore.Models.AssemblyInfo.cs
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ClothingStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ClothingStore.Models.csproj.CopyComplete
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ClothingStore.Models.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\refint\ClothingStore.Models.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ClothingStore.Models.pdb
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ref\ClothingStore.Models.dll

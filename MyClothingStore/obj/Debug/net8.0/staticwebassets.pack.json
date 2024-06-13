@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyClothingStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyClothingStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\productviewgallery.css",
+      "PackagePath": "staticwebassets\\css\\productviewgallery.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\slider.css",
+      "PackagePath": "staticwebassets\\css\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\fonts\\Amble-Regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Amble-Regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\fonts\\BebasNeue-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\BebasNeue-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\0001-1.jpg",
+      "PackagePath": "staticwebassets\\images\\0001-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\0001-2.jpg",
+      "PackagePath": "staticwebassets\\images\\0001-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\0001-3.jpg",
+      "PackagePath": "staticwebassets\\images\\0001-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\0001-4.jpg",
+      "PackagePath": "staticwebassets\\images\\0001-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\0001-5.jpg",
+      "PackagePath": "staticwebassets\\images\\0001-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\arrow-next.png",
+      "PackagePath": "staticwebassets\\images\\arrow-next.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\arrow-prev.png",
+      "PackagePath": "staticwebassets\\images\\arrow-prev.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\art.png",
+      "PackagePath": "staticwebassets\\images\\art.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\c-arrows.png",
+      "PackagePath": "staticwebassets\\images\\c-arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\c1.jpg",
+      "PackagePath": "staticwebassets\\images\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\c2.jpg",
+      "PackagePath": "staticwebassets\\images\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\c3.jpg",
+      "PackagePath": "staticwebassets\\images\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\cart.png",
+      "PackagePath": "staticwebassets\\images\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\delivery.png",
+      "PackagePath": "staticwebassets\\images\\delivery.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\det_pic.jpg",
+      "PackagePath": "staticwebassets\\images\\det_pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\det_pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\det_pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\det_pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\det_pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\det_pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\det_pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\down_arrow.png",
+      "PackagePath": "staticwebassets\\images\\down_arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\gpluse.png",
+      "PackagePath": "staticwebassets\\images\\gpluse.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\icon1.png",
+      "PackagePath": "staticwebassets\\images\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\images\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\icon3.png",
+      "PackagePath": "staticwebassets\\images\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\icon4.png",
+      "PackagePath": "staticwebassets\\images\\icon4.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\icon5.png",
+      "PackagePath": "staticwebassets\\images\\icon5.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\icon6.png",
+      "PackagePath": "staticwebassets\\images\\icon6.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\large\\0001-1.jpg",
+      "PackagePath": "staticwebassets\\images\\large\\0001-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\large\\0001-2.jpg",
+      "PackagePath": "staticwebassets\\images\\large\\0001-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\large\\0001-3.jpg",
+      "PackagePath": "staticwebassets\\images\\large\\0001-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\large\\0001-4.jpg",
+      "PackagePath": "staticwebassets\\images\\large\\0001-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\large\\0001-5.jpg",
+      "PackagePath": "staticwebassets\\images\\large\\0001-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\large\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\large\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\nav_icon.png",
+      "PackagePath": "staticwebassets\\images\\nav_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\rss.png",
+      "PackagePath": "staticwebassets\\images\\rss.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic10.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic11.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic12.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic7.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic8.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\sale_pic9.jpg",
+      "PackagePath": "staticwebassets\\images\\sale_pic9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\search.png",
+      "PackagePath": "staticwebassets\\images\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\search_h.png",
+      "PackagePath": "staticwebassets\\images\\search_h.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\shoe_pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\shoe_pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\shoe_pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\shoe_pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\shoe_pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\shoe_pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\shoe_pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\shoe_pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\shoe_pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\shoe_pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\shoe_pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\shoe_pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\slider1.png",
+      "PackagePath": "staticwebassets\\images\\slider1.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\slider2.png",
+      "PackagePath": "staticwebassets\\images\\slider2.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\slider3.png",
+      "PackagePath": "staticwebassets\\images\\slider3.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\slider4.png",
+      "PackagePath": "staticwebassets\\images\\slider4.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\slider5.png",
+      "PackagePath": "staticwebassets\\images\\slider5.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\slider_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slider_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\small\\0001-1.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\0001-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\small\\0001-2.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\0001-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\small\\0001-3.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\0001-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\small\\0001-4.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\0001-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\small\\0001-5.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\0001-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\small\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\small\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\top_move.png",
+      "PackagePath": "staticwebassets\\images\\top_move.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\up_arrow.png",
+      "PackagePath": "staticwebassets\\images\\up_arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\w_pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\w_pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\w_pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\w_pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\w_pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\w_pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\w_pic4.jpg",
+      "PackagePath": "staticwebassets\\images\\w_pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\w_pic5.jpg",
+      "PackagePath": "staticwebassets\\images\\w_pic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\w_pic6.jpg",
+      "PackagePath": "staticwebassets\\images\\w_pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\cloud-zoom.1.0.3.min.js",
+      "PackagePath": "staticwebassets\\js\\cloud-zoom.1.0.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\easing.js",
+      "PackagePath": "staticwebassets\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\fliplightbox.min.js",
+      "PackagePath": "staticwebassets\\js\\fliplightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\jquery.cslider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.cslider.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\jquery.fancybox-buttons.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox-buttons.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\jquery.fancybox-thumbs.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox-thumbs.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\jquery.fancybox.pack.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.pack.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\modernizr.custom.28468.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.custom.28468.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\productviewgallery.js",
+      "PackagePath": "staticwebassets\\js\\productviewgallery.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\js\\responsive.menu.js",
+      "PackagePath": "staticwebassets\\js\\responsive.menu.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyClothingStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyClothingStore.props",
+      "PackagePath": "build\\MyClothingStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyClothingStore.props",
+      "PackagePath": "buildMultiTargeting\\MyClothingStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyClothingStore.props",
+      "PackagePath": "buildTransitive\\MyClothingStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
