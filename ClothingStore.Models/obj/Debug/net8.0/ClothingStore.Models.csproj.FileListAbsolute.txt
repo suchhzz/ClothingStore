@@ -13,3 +13,4 @@ C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.
 C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\refint\ClothingStore.Models.dll
 C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ClothingStore.Models.pdb
 C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ref\ClothingStore.Models.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Models\obj\Debug\net8.0\ClothingStore.Models.sourcelink.json

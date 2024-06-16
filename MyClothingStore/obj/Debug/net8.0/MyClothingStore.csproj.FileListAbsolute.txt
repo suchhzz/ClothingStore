@@ -142,3 +142,4 @@ C:\Users\jenje\source\repos\MyClothingStore\MyClothingStore\bin\Debug\net8.0\Clo
 C:\Users\jenje\source\repos\MyClothingStore\MyClothingStore\bin\Debug\net8.0\ClothingStore.Repository.pdb
 C:\Users\jenje\source\repos\MyClothingStore\MyClothingStore\bin\Debug\net8.0\ClothingStore.Services.pdb
 C:\Users\jenje\source\repos\MyClothingStore\MyClothingStore\bin\Debug\net8.0\ClothingStore.Models.pdb
+C:\Users\jenje\source\repos\MyClothingStore\MyClothingStore\obj\Debug\net8.0\MyClothingStore.sourcelink.json

@@ -39,6 +39,10 @@ namespace ClothingStore.Repository.Repositories
                 Title = product.Title,
                 Description = product.Description,
                 Price = product.Price,
+                Colors = new List<ColorEntity>(),
+                Sizes = new List<SizeEntity>(),
+                Qualities = new List<QualityEntity>(),
+                Images = new List<ImageEntity>()
             };
 
             foreach (var color in product.Colors)
@@ -65,45 +69,24 @@ namespace ClothingStore.Repository.Repositories
             {
                 var selectedSize = await _context.Sizes.FirstOrDefaultAsync(s => s.Name == size);
 
-                if (selectedSize == null)
+                if (selectedSize != null) 
                 {
-                    var newSize = new SizeEntity()
-                    {
-                        Name = size
-                    };
-
-                    await _context.Sizes.AddAsync(newSize);
-                    await _context.SaveChangesAsync();
-
-                    selectedSize = newSize;
+                    productEntity.Sizes.Add(selectedSize);
                 }
-
-                productEntity.Sizes.Add(selectedSize);
             }
 
             foreach (var quality in product.Qualities)
             {
                 var selectedQuality = await _context.Qualities.FirstOrDefaultAsync(q => q.Name == quality);
 
-                if (selectedQuality == null)
+                if (selectedQuality != null)
                 {
-                    var newQuality = new QualityEntity()
-                    {
-                        Name = quality
-                    };
-
-                    await _context.Qualities.AddAsync(newQuality);
-                    await _context.SaveChangesAsync();
-
-                    selectedQuality = newQuality;
+                    productEntity.Qualities.Add(selectedQuality);
                 }
-
-                productEntity.Qualities.Add(selectedQuality);
             }
 
-            productEntity.Images = new List<ImageEntity>();
 
-            foreach (var image in product.Colors)
+            foreach (var image in product.Images)
             {
                 productEntity.Images.Add(new ImageEntity()
                 {

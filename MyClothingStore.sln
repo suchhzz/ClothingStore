@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClothingStore.Repository", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClothingStore.Models", "ClothingStore.Models\ClothingStore.Models.csproj", "{F6692C6E-440E-487F-86CE-D7DD6B4B67EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClothingStore.Services", "ClothingStore.Services\ClothingStore.Services.csproj", "{9C38754F-4381-4F9A-8F56-60BFCDB26505}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClothingStore.Services", "ClothingStore.Services\ClothingStore.Services.csproj", "{9C38754F-4381-4F9A-8F56-60BFCDB26505}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

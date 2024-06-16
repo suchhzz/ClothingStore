@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products</title>
+    <link rel="stylesheet" href="~/css/admin/admin-panel-layout.css">
+    <link rel="stylesheet" href="~/css/admin/admin-panel-products.css">
+</head>
+<body>
+    <div class="main-container d-flex">
+        <div class="left-menu">
+            <div class="menu-items">
+                <div>
+                    <form class="item" asp-controller="Admin" asp-action="Users">
+                        <input type="submit" value="Users">
+                    </form>
+                </div>
+                <div>
+                    <form class="item">
+                        <input type="submit" value="Orders">
+                    </form>
+                </div>
+                <div>
+                    <form class="item">
+                        <input type="submit" value="Statistic">
+                    </form>
+                </div>
+                <div>
+                    <form class="item selected" asp-controller="Admin" asp-action="Products">
+                        <input type="submit" value="Products">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="main-menu">
+            <div class="main-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Title</th>
+                            <th>Description</th>
+                            <th>Colors</th>
+                            <th>Sizes</th>
+                            <th>Qualities</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><img src="~/images/0001-1.jpg"></td>
+                            <td>T-shirt</td>
+                            <td>afsdagdfajgkhdfjaklgjfakl;jgldsajfkldsjafkljsda;lkgjfkl;djgslkjdsklgjdslkjflgkjadkljgdskajfkldsa</td>
+                            <td>red green blue black yellow</td>
+                            <td>XS S M L XL</td>
+                            <td>1 2 3 4 5</td>
+                            <td>
+                                <form>
+                                    <input class="table-button" type="submit" value="Info">
+                                </form>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><img src="~/images/sale_pic3.jpg"></td>
+                            <td>Coat</td>
+                            <td>some coat for you</td>
+                            <td>brown blue black</td>
+                            <td>M L XL</td>
+                            <td>1 5</td>
+                            <td>
+                                <form>
+                                    <input class="table-button" type="submit" value="Info">
+                                </form>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="create-menu">
+            <form asp-controller="Admin" asp-action="CreateProduct" method="get">
+                <input type="submit" value="Add Product">
+            </form>
+        </div>
+    </div>
+</body>
+</html>

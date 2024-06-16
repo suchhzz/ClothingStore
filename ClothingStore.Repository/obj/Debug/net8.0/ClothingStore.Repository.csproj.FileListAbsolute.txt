@@ -15,3 +15,4 @@ C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\n
 C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\refint\ClothingStore.Repository.dll
 C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ClothingStore.Repository.pdb
 C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ref\ClothingStore.Repository.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.Repository\obj\Debug\net8.0\ClothingStore.Repository.sourcelink.json

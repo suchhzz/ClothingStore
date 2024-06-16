@@ -1,0 +1,94 @@
+﻿@model ClothingStore.Models.Models.ViewModels.AdminViewModel;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="~/css/admin/admin-panel-layout.css">
+    <link rel="stylesheet" href="~/css/admin/admin-panel-products-create.css">
+</head>
+<body>
+    <div class="main-container d-flex">
+        <div class="left-menu">
+            <div class="menu-items">
+                <div>
+                    <form class="item" asp-controller="Admin" asp-action="Users">
+                        <input type="submit" value="Users">
+                    </form>
+                </div>
+                <div>
+                    <form class="item">
+                        <input type="submit" value="Orders">
+                    </form>
+                </div>
+                <div>
+                    <form class="item">
+                        <input type="submit" value="Statistic">
+                    </form>
+                </div>
+                <div>
+                    <form class="item selected" asp-controller="Admin" asp-action="Products">
+                        <input type="submit" value="Products">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="main-menu">
+            <div class="main-table">
+                <form class="create-form" asp-controller="Admin" asp-controller="CreateProduct" method="post">
+                    <div class="input-container, text-content">
+                        <input type="text" placeholder="Title" asp-for="@Model.CreateProduct.Title">
+                        <textarea placeholder="Description" asp-for="@Model.CreateProduct.Description"></textarea>
+                        <input type="text" placeholder="Price" asp-for="@Model.CreateProduct.Price">
+                        <input type="text" placeholder="Colors" asp-for="@Model.CreateProduct.Colors">
+                    </div>
+                    <div class="input-container">
+                        <label>Sizes: </label>
+                        <label>
+                            XS<input type="checkbox" name="Sizes" value="XS">
+                        </label>
+                        <label>
+                            S<input type="checkbox" name="Sizes" value="S">
+                        </label>
+                        <label>
+                            M<input type="checkbox" name="Sizes" value="M">
+                        </label>
+                        <label>
+                            L<input type="checkbox" name="Sizes" value="L">
+                        </label>
+                        <label>
+                            XL<input type="checkbox" name="Sizes" value="XL">
+                        </label>
+                    </div>
+                    <div class="input-container">
+                        <label>Qualities: </label>
+                        <label>
+                            1<input type="checkbox" name="Qualities", value="1">
+                        </label>
+                        <label>
+                            2<input type="checkbox" name="Qualities" , value="2">
+                        </label>
+                        <label>
+                            3<input type="checkbox" name="Qualities" , value="3">
+                        </label>
+                        <label>
+                            4<input type="checkbox" name="Qualities" , value="4">
+                        </label>
+                        <label>
+                            5<input type="checkbox" name="Qualities" , value="5">
+                        </label>
+                    </div>
+                    <div class="input-container">
+                        <input type="file" id="file-upload" accept="image/*" asp-for="@Model.CreateProduct.Images">
+                    </div>
+                    <div class="input-container">
+                        <input type="submit" value="Add">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

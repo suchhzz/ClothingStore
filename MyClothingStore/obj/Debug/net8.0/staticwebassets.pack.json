@@ -5,20 +5,36 @@
       "PackagePath": "staticwebassets\\MyClothingStore.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\owl.carousel.css",
-      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\admin\\admin-panel-layout.css",
+      "PackagePath": "staticwebassets\\css\\admin\\admin-panel-layout.css"
     },
     {
-      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\productviewgallery.css",
-      "PackagePath": "staticwebassets\\css\\productviewgallery.css"
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\admin\\admin-panel-products-create.css",
+      "PackagePath": "staticwebassets\\css\\admin\\admin-panel-products-create.css"
     },
     {
-      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\slider.css",
-      "PackagePath": "staticwebassets\\css\\slider.css"
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\admin\\admin-panel-products.css",
+      "PackagePath": "staticwebassets\\css\\admin\\admin-panel-products.css"
     },
     {
-      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\admin\\admin-panel-users.css",
+      "PackagePath": "staticwebassets\\css\\admin\\admin-panel-users.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\product\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\product\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\product\\productviewgallery.css",
+      "PackagePath": "staticwebassets\\css\\product\\productviewgallery.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\product\\slider.css",
+      "PackagePath": "staticwebassets\\css\\product\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\product\\style.css",
+      "PackagePath": "staticwebassets\\css\\product\\style.css"
     },
     {
       "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\favicon.ico",
