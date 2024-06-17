@@ -39,5 +39,43 @@ namespace MyClothingStore.Controllers
 
             return RedirectToAction(nameof(Products));
         }
+        public async Task<IActionResult> OtherParameters()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> CreateColor(string color)
+        {
+            return RedirectToAction(nameof(OtherParameters));
+        }
+        [HttpPost]
+        public async Task<IActionResult> DeleteColor(int id)
+        {
+            return RedirectToAction(nameof(OtherParameters));
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateSize(string size)
+        {
+            return RedirectToAction(nameof(OtherParameters));
+        }
+        [HttpPost]
+        public async Task<IActionResult> DeleteSize(int id)
+        {
+            return RedirectToAction(nameof(OtherParameters));
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateQuality(string quality)
+        {
+            return RedirectToAction(nameof(OtherParameters));
+        }
+        [HttpPost]
+        public async Task<IActionResult> DeleteQuality(int id)
+        {
+            return RedirectToAction(nameof(OtherParameters));
+        }
+
+
     }
 }
