@@ -1,5 +1,6 @@
 using ClothingStore.DataAccess;
 using ClothingStore.Models.Abstracts;
+using ClothingStore.Models.TempDb;
 using ClothingStore.Repository.Repositories;
 using ClothingStore.Services.Services;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +10,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.Configure<IISServerOptions>(options =>
+{
+    options.AllowSynchronousIO = true;
+}); 
+
 builder.Services.AddDbContext<ClothingStoreDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"), 
     builder => builder.MigrationsAssembly("MyClothingStore")));
@@ -16,6 +22,10 @@ builder.Services.AddDbContext<ClothingStoreDbContext>(options =>
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IAdminService, AdminService>();
+builder.Services.AddScoped<IOtherParametersRepository, OtherParametersRepository>();
+builder.Services.AddScoped<IOtherParametersService, OtherParametersService>();
+builder.Services.AddScoped<IImageService, ImageService>();
+builder.Services.AddTransient<TempProductDatabase>();
 
 var app = builder.Build();
 
@@ -36,6 +46,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Admin}/{action=Products}/{id?}");
+    pattern: "{controller=Product}/{action=Index}/{id?}");
 
 app.Run();

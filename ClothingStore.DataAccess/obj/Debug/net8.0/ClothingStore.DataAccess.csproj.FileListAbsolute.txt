@@ -12,3 +12,4 @@ C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.DataAccess\obj\Debug\n
 C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.DataAccess\obj\Debug\net8.0\ClothingStore.DataAccess.pdb
 C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.DataAccess\obj\Debug\net8.0\ClothingStore.DataAccess.genruntimeconfig.cache
 C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.DataAccess\obj\Debug\net8.0\ref\ClothingStore.DataAccess.dll
+C:\Users\jenje\source\repos\MyClothingStore\ClothingStore.DataAccess\obj\Debug\net8.0\ClothingStore.DataAccess.sourcelink.json

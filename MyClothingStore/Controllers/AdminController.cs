@@ -1,5 +1,5 @@
 ﻿using ClothingStore.Models.Abstracts;
-using ClothingStore.Models.Models.ViewModels;
+using ClothingStore.Models.Models.Admin;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MyClothingStore.Controllers
@@ -12,7 +12,6 @@ namespace MyClothingStore.Controllers
         {
             _adminService = adminService;
             _logger = logger;
-
         }
 
         public async Task<IActionResult> Users()
@@ -28,12 +27,9 @@ namespace MyClothingStore.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> CreateProduct(AdminViewModel adminVM, string[] Sizes, string[] Qualities)
+        public async Task<IActionResult> CreateProduct(CreateProductModel createProduct)
         {
-            adminVM.CreateProduct.Sizes = string.Join(" ", Sizes);
-            adminVM.CreateProduct.Qualities = string.Join(" ", Qualities);
-
-            var createdId = await _adminService.CreateProduct(adminVM.CreateProduct);
+            var createdId = await _adminService.CreateProduct(createProduct);
 
             _logger.LogInformation("product created: " + createdId);
 
@@ -41,38 +37,58 @@ namespace MyClothingStore.Controllers
         }
         public async Task<IActionResult> OtherParameters()
         {
-            return View();
+            var otherParameters = new OtherParametersModel()
+            {
+                Colors = await _adminService.GetColors(),
+                Sizes = await _adminService.GetSizes(),
+                Qualities = await _adminService.GetQualities()
+            };
+               
+            return View(otherParameters);
         }
+
         [HttpPost]
         public async Task<IActionResult> CreateColor(string color)
         {
+            var createdColorId = await _adminService.CreateColor(color);
+
             return RedirectToAction(nameof(OtherParameters));
         }
         [HttpPost]
         public async Task<IActionResult> DeleteColor(int id)
         {
+            var deletedColorId = await _adminService.DeleteColor(id);
+
             return RedirectToAction(nameof(OtherParameters));
         }
 
         [HttpPost]
         public async Task<IActionResult> CreateSize(string size)
         {
+            var createdSizeId = await _adminService.CreateSize(size);
+
             return RedirectToAction(nameof(OtherParameters));
         }
         [HttpPost]
         public async Task<IActionResult> DeleteSize(int id)
         {
+            var deletedSizeId = await _adminService.DeleteSize(id);
+
             return RedirectToAction(nameof(OtherParameters));
         }
 
         [HttpPost]
         public async Task<IActionResult> CreateQuality(string quality)
         {
+            var createdQualityId = await _adminService.CreateQuality(quality);
+
             return RedirectToAction(nameof(OtherParameters));
         }
         [HttpPost]
         public async Task<IActionResult> DeleteQuality(int id)
         {
+            var deletedQualityId = await _adminService.DeleteQuality(id);
+
             return RedirectToAction(nameof(OtherParameters));
         }
 

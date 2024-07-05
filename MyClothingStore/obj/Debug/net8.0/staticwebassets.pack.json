@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\admin\\admin-panel-products-create.css"
     },
     {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\admin\\admin-panel-products-otherparams.css",
+      "PackagePath": "staticwebassets\\css\\admin\\admin-panel-products-otherparams.css"
+    },
+    {
       "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\css\\admin\\admin-panel-products.css",
       "PackagePath": "staticwebassets\\css\\admin\\admin-panel-products.css"
     },
@@ -47,6 +51,54 @@
     {
       "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\fonts\\BebasNeue-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\BebasNeue-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\0001-1.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\0001-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\0001-4.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\0001-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\0001-5.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\0001-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\pic2.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\pic3.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\pic6.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\shoe_pic1.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\shoe_pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\shoe_pic2.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\shoe_pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\shoe_pic3.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\shoe_pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\w_pic1.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\w_pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\w_pic4.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\w_pic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\imageTest\\w_pic6.jpg",
+      "PackagePath": "staticwebassets\\imageTest\\w_pic6.jpg"
     },
     {
       "Id": "C:\\Users\\jenje\\source\\repos\\MyClothingStore\\MyClothingStore\\wwwroot\\images\\0001-1.jpg",

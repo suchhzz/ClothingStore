@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jenje\source\repos\MyClothingStore\MyClothingStore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jenje/source/repos/MyClothingStore/MyClothingStore/Views/Admin/ProductManipulation/CreateProduct.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdE1hbmlwdWxhdGlvblxDcmVhdGVQcm9kdWN0LmNzaHRtbA==
+[C:/Users/jenje/source/repos/MyClothingStore/MyClothingStore/Views/Admin/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlUHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jenje/source/repos/MyClothingStore/MyClothingStore/Views/Admin/ProductManipulation/OtherParameters.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdE1hbmlwdWxhdGlvblxPdGhlclBhcmFtZXRlcnMuY3NodG1s
+[C:/Users/jenje/source/repos/MyClothingStore/MyClothingStore/Views/Admin/OtherParameters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3RoZXJQYXJhbWV0ZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jenje/source/repos/MyClothingStore/MyClothingStore/Views/Admin/Products.cshtml]
